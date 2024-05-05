@@ -16,4 +16,4 @@ Bubble Game is an interactive web game where players aim to pop as many bubbles 
 
 ## Demo
 
-You can try the game live { https://hrishikesh045.github.io/bubble.github.io/ }
+You can try the game live { https://hrishikesh045.github.io/bubble.game.io/ }
